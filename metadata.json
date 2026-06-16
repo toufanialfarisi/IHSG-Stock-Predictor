@@ -1,0 +1,6 @@
+{
+  "name": "IHSG Stock Predictor",
+  "description": "A premium Indonesian stock prediction and technical analysis dashboard featuring self-correcting machine learning models, custom evaluation tests, interactive candlestick charts, and push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
